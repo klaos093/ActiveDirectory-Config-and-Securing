@@ -99,12 +99,6 @@ Check [`issues/troubleshooting-log.md`](./issues/troubleshooting-log.md) for not
 
 ---
 
-## 📸 Screenshots
-
-Visual references of key steps and results from the lab setup and testing.
-
----
-
 ## 📁 Future Plans
 
 - Implement attack scenarios using Kali Linux for penetration testing
