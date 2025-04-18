@@ -77,6 +77,9 @@ active-directory-lab/
   Generates 1000 names to a text file using PowerShell.  
   _(Sample user list included in repo)_
 
+- `scripts/User_Distribution.ps1`  
+  Automates the process of randomly distributing users into different organizational units (OUs)
+   
 - `scripts/User_Creator_.ps1`  
   Creates 1000 users from a text file using PowerShell.
 
